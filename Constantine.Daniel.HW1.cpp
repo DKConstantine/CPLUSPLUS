@@ -3,8 +3,7 @@
 //Date: September 29, 2016
 //Description: This program was an assignment from my MAC101 class. 
 //This program takes a value from the user and then calculate it in function 4x^3 + x^2 + 3x - 5
-
-#include <iostream>
+nclude <iostream>
 using namespace std;
 int main(){
 	int x = 0, result = 0;
